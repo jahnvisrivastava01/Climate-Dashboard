@@ -74,7 +74,7 @@ This project was a learning experience that helped me understand:
 * Deploy the dashboard for public access
 
 ## Author
--Jahnvi Srivastava
+Jahnvi Srivastava
 
 ---
 
